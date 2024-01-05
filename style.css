@@ -1,0 +1,151 @@
+nav{
+    
+    display: flex;
+height: 45px;
+align-items: center;
+text-align:center;
+justify-content: center;
+}
+nav ul{
+    display: flex;
+}
+nav ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+nav ul li a{
+    padding: 20px;
+    color: whitesmoke;
+    text-decoration: none;
+    list-style: none;
+    font-size: 12px;
+    font-family: inherit;
+}
+nav ul li a:hover{
+    color: whitesmoke;
+}
+.icon {
+    color: white;
+    padding: 16px;
+}
+.shopping{
+    color: white;
+    padding: 16px;
+}
+div{
+    background-color: black;
+
+}
+.iphone{
+    color: aliceblue;
+    text-align: center;
+    font-size: 2em;
+}
+.link{
+    text-align: center;
+}
+a :hover{
+color: blue;
+text-align: center;
+font-family: initial;
+}
+a :hover{
+    color: blue;
+    text-align: center;
+    font-family: initial;
+}
+.phoria{
+    background-color: white;
+    text-decoration: black;
+    text-align: center;
+    font-size: 2em;
+
+}
+a :hover{
+    color: blue;
+    text-align: center;
+    font-family: initial;
+    
+}
+a{
+    text-decoration: none;
+}
+.Watch{
+    background-color: black;
+    text-decoration: white;
+    text-align: center;
+    font-size: 2em;
+
+}
+.Watch h1{
+    color: white;
+    text-align: center;
+    
+}
+.Watch p{
+    color: red;
+    text-align: center;
+    font-style: oblique;
+}
+p2{
+    background-color: black;
+    color: white;
+    text-align: center;
+ font-style: normal;
+ 
+}
+a{
+    color: blue;
+    text-align: center;
+    font-family: initial;
+    
+   
+}
+.ipad{
+    color: aliceblue;
+    text-align: center;
+    font-size: 2em;
+}
+.vision{
+   
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(https://www.apple.com/v/home/be/images/promos/apple-vision-pro/promo_apple_vision_pro__f4v4zp0sum2y_large.jpg)
+}
+.vision{
+    text-align: center;
+    
+}
+    
+.vision p {
+color: grey
+}    
+.macbook{
+    background-color: white;
+    text-decoration: black;
+    text-align: center;
+    font-size: 2em;
+}
+.macbook a{
+    text-align: center;
+   
+}
+.airpod{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+.trade{
+    background-color: white;
+    text-decoration: black;
+    text-align: center;
+    font-size: 2em;
+}
+.card{
+    background-color: white;
+    text-decoration: black;
+    text-align: center;
+    font-size: 2em;
+}
